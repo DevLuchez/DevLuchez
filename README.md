@@ -28,7 +28,6 @@
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-0D1117?style=for-the-badge&logo=intellijidea&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Tortoise](https://img.shields.io/badge/-Tortoise%20svn-0D1117?style=for-the-badge&logo=subversion&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
