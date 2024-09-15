@@ -15,8 +15,8 @@
 </p>
 -->
 <div align="center">  
-<a href="https://www.linkedin.com/in/luchezdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
-<a href="https://www.instagram.com/laura.luchez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/luchezdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
+  <a href="https://www.instagram.com/laura.luchez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
@@ -53,12 +53,12 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevLuchez/DevLuchez/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevLuchez/DevLuchez/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLuchez/DevLuchez/output/github-contribution-grid-snake.svg"
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLuchez/DevLuchez/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
 
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=footer"/>
-
+-->
