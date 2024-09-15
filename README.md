@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD9CEF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD9CEF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laura+Heloísa+Luchez;I'm+19+years+old;I+am+from+Jaraguá+do+Sul,+SC-BR;I+study+Software+Engineering+at+Católica+SC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laura+Heloísa+Luchez;I'm+19+years+old;I+am+from+Jaraguá+do+Sul,+SC-BR;I+study+Software+Engineering+at+Católica+SC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevLuchez&show_icons=true&count_private=true&hide_border=true&title_color=BD9CEF&icon_color=BD9CEF&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuchez&layout=compact&hide_border=true&title_color=BD9CEF&text_color=BD9CEF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevLuchez&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuchez&layout=compact&hide_border=true&title_color=FF00F6&text_color=FF00F6&bg_color=0d1117" />
 </div>
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevLuchez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -60,5 +60,5 @@
 </picture>
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD9CEF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=footer"/>
 
