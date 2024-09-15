@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laura+Heloísa+Luchez;I'm+19+years+old;I+am+from+Jaraguá+do+Sul,+SC-BR;I+study+Software+Engineering+at+Católica+SC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laura+Heloísa+Luchez;I'm+19+years+old;I+am+from+São+Paulo,+SP-BR;But+I+live+in+Jaraguá+do+Sul,+SC-BR;I+study+Software+Engineering+at+Católica+SC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevLuchez&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevLuchez&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Laura Heloísa Luchez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuchez&layout=compact&hide_border=true&title_color=FF00F6&text_color=FF00F6&bg_color=0d1117" />
 </div>
 <!--
