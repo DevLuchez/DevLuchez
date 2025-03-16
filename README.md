@@ -48,9 +48,10 @@
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Studying in this moment:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Databricks](https://img.shields.io/badge/-Databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=tableau&labelColor=0D1117&textColor=0D1117)&nbsp;
+![OracleSQL](https://img.shields.io/badge/-Oracle%20SQL-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Power BI](https://img.shields.io/badge/-power%20bi-0D1117?style=for-the-badge&logo=power-bi&labelColor=0D1117)&nbsp;
 
 
 <picture align="center">
