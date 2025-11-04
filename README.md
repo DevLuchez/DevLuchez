@@ -39,14 +39,14 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Cache](https://img.shields.io/badge/-caché%20intersystem-0D1117?style=for-the-badge&logo=iris&logoColor=purple&labelColor=0D1117)&nbsp;
 ![ABAP](https://img.shields.io/badge/-abap-0D1117?style=for-the-badge&logo=abap&logoColor=purple&labelColor=0D1117)&nbsp;
-![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
