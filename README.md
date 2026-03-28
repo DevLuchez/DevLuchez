@@ -2,11 +2,12 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laura+Heloísa+Luchez;I'm+20+years+old;I+am+from+São+Paulo,+SP-BR;But+I+live+in+Jaraguá+do+Sul,+SC-BR;I+study+Software+Engineering+at+Católica+SC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevLuchez&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Laura Heloísa Luchez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuchez&layout=compact&hide_border=true&title_color=FF00F6&text_color=FF00F6&bg_color=0d1117" />
 </div>
-<!--
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevLuchez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 <!--
